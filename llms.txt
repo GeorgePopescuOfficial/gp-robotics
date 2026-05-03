@@ -1,0 +1,19 @@
+# Popescu Robotics
+
+> Reflections on AI, Robotics, and Stability — George Popescu's personal perspective on artificial intelligence, humanoid robotics, and long-term company building.
+
+An informational site collecting George Popescu's personal reflections on artificial intelligence, humanoid robotics, and the importance of stability for long-term company building. Opinions only, not advice or services.
+
+## Pages
+
+- [Home](https://popescurobotics.com/): Overview of core themes
+- [About George Popescu](https://popescurobotics.com/about.html): Background and experience
+- [Insights](https://popescurobotics.com/insights.html): Articles and reflections
+- [Contact](https://popescurobotics.com/contact.html): Get in touch
+
+## Key Articles
+
+- [AI Robotics Investment Impact](https://popescurobotics.com/ai-robotics-investment-impact.html)
+- [Humanoid Robotics and the Physical World](https://popescurobotics.com/humanoid-robotics-physical-world.html)
+- [Machine Vision: The Sensory Revolution](https://popescurobotics.com/machine-vision-sensory-revolution.html)
+- [Paris Reflection](https://popescurobotics.com/paris-reflection.html)
