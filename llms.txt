@@ -17,3 +17,7 @@ An informational site collecting George Popescu's personal reflections on artifi
 - [Humanoid Robotics and the Physical World](https://popescurobotics.com/humanoid-robotics-physical-world.html)
 - [Machine Vision: The Sensory Revolution](https://popescurobotics.com/machine-vision-sensory-revolution.html)
 - [Paris Reflection](https://popescurobotics.com/paris-reflection.html)
+
+## External Resources
+
+- [George Popescu – Profile (PDF)](https://zenodo.org/records/18333161): Official profile document hosted on Zenodo
