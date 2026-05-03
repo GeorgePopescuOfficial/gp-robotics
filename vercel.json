@@ -1,0 +1,16 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    { "source": "/about-george-popescu", "destination": "/about", "permanent": true },
+    { "source": "/about-george-popescu/", "destination": "/about", "permanent": true },
+    { "source": "/contact-george-popescu", "destination": "/contact", "permanent": true },
+    { "source": "/contact-george-popescu/", "destination": "/contact", "permanent": true },
+    { "source": "/insights-george-popescu", "destination": "/insights", "permanent": true },
+    { "source": "/insights-george-popescu/", "destination": "/insights", "permanent": true },
+    { "source": "/ai-robotics-investment-impact/", "destination": "/ai-robotics-investment-impact", "permanent": true },
+    { "source": "/humanoid-robotics-physical-world/", "destination": "/humanoid-robotics-physical-world", "permanent": true },
+    { "source": "/machine-vision-sensory-revolution/", "destination": "/machine-vision-sensory-revolution", "permanent": true },
+    { "source": "/paris-reflection/", "destination": "/paris-reflection", "permanent": true }
+  ]
+}
