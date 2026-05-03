@@ -4,10 +4,24 @@
   "redirects": [
     { "source": "/about-george-popescu", "destination": "/about", "permanent": true },
     { "source": "/about-george-popescu/", "destination": "/about", "permanent": true },
+    { "source": "/aboutgeorgepopescu", "destination": "/about", "permanent": true },
+    { "source": "/aboutgeorgepopescu/", "destination": "/about", "permanent": true },
+    { "source": "/george-popescu-about", "destination": "/about", "permanent": true },
+    { "source": "/george-popescu-about/", "destination": "/about", "permanent": true },
+    { "source": "/georgepopescuabout", "destination": "/about", "permanent": true },
+
     { "source": "/contact-george-popescu", "destination": "/contact", "permanent": true },
     { "source": "/contact-george-popescu/", "destination": "/contact", "permanent": true },
+    { "source": "/contactgeorgepopescu", "destination": "/contact", "permanent": true },
+    { "source": "/george-popescu-contact", "destination": "/contact", "permanent": true },
+    { "source": "/george-popescu-contact/", "destination": "/contact", "permanent": true },
+
     { "source": "/insights-george-popescu", "destination": "/insights", "permanent": true },
     { "source": "/insights-george-popescu/", "destination": "/insights", "permanent": true },
+    { "source": "/insightsgeorgepopescu", "destination": "/insights", "permanent": true },
+    { "source": "/george-popescu-insights", "destination": "/insights", "permanent": true },
+    { "source": "/george-popescu-insights/", "destination": "/insights", "permanent": true },
+
     { "source": "/ai-robotics-investment-impact/", "destination": "/ai-robotics-investment-impact", "permanent": true },
     { "source": "/humanoid-robotics-physical-world/", "destination": "/humanoid-robotics-physical-world", "permanent": true },
     { "source": "/machine-vision-sensory-revolution/", "destination": "/machine-vision-sensory-revolution", "permanent": true },
